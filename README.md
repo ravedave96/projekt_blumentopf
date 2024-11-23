@@ -26,9 +26,13 @@ Die Feuchtigkeit der Erde in der die Pflanze wächst wird überwacht. Sobald die
 - 04.01.2025 - Projektabschluss (Video, Dokumentation, Präsentation)
 
 ## Flussdiagramm
-Hier können die wichtigsten Punkte des Flussdiagramms kurz beschrieben werden.
+In diesem Flussdiagramm wird das Auslesen und die Verzweigungen des Projekts aufgezeigt.
 
-Zum Beispiel so: In diesem Flussdiagramm wird der Ablauf von einem Prüfungsauswerter aufgezeigt. Der wichtigste Teil des Programmes ist die Verzweigung, hier wird entschieden ob die Prüfung bestanden wurde oder nicht. Dafür wird überprüft, ob 60 Punkte erreicht wurden oder nicht.
+Funktionen:
+- Gelb = Muss
+- Türkis = Wunsch
+
+![Flowchart](https://github.com/user-attachments/assets/1e80a9e0-4288-4e50-b665-3b41a7a710fe)
 
 ## Projektbeschreibung
 Kurze Beschreibung der Vorgehensweise
