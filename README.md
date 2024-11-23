@@ -32,7 +32,8 @@ Funktionen:
 - Gelb = Muss
 - Türkis = Wunsch
 
-![Flowchart](https://github.com/user-attachments/assets/1e80a9e0-4288-4e50-b665-3b41a7a710fe)
+![arduino blumentopf](https://github.com/user-attachments/assets/67ebdfcc-c06b-49a0-beef-22e57c7c482b)
+
 
 ## Projektbeschreibung
 Kurze Beschreibung der Vorgehensweise
